@@ -1,4 +1,14 @@
 Description: This is a git repo storing the first version of teensy iMiev low level commands
 Aim: This version is largely on trial and experimental phase
 Date: 28/7/2016
-Status: iMiev untouched
+Status: iMiev Throttle
+
+Current Progress:
+1. implemented hardware serial communication (receive)
+2. implemented checksum fletcher 16
+3. Sending 
+
+TODO:
+1. Buttons/Emergency 
+2. State machines (control cycles)
+4. DAC to control throttle
